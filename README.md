@@ -31,7 +31,7 @@
     <title>Meu portfólio</title>
 </head>
 <body>
-    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="">
+    <img src="img/avatar-perfil.png" alt="avatar da Maria Clara" srcset="">
 </body>
 </html>
 <!DOCTYPE html>
