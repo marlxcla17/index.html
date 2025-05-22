@@ -43,7 +43,7 @@
     <title>Meu portfólio</title>
 </head>
 <body>
-    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="">
+    <img src="img/avatar-perfil.png" alt="avatar da Maria Clara" srcset="">
     <p>Eu sou Maria Clara_</p>
     <h1>Eu estudo no ensino medio</h1>
     <p>SEu so estudantes para desenvolver os prjetos e  estudar as tecnologias! </p>
